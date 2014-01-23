@@ -204,7 +204,22 @@
         "Open Source"
       ]
     },
-    {
+      {
+          "name": "TrackDuck",
+          "thumb": "trackduck/thumb.png",
+          "desc": "TrackDuck is a visual feedback and bug-tracking solution for designers and developers, which helps to manage comments and issues directly in a website.",
+          "url": "http://trackduck.com",
+          "info": "http://hello.trackduck.com",
+          "submitter": "shauchenka",
+          "submissionDate": "2014-01-23",
+          "tags": [
+              "Production",
+              "Developer tool",
+              "Visual feedback",
+              "jQuery"
+          ]
+      },
+      {
       "name": "Project Time Recorder",
       "thumb": "ptr/thumb.png",
       "desc": "Time sheet for recoring working hours and time allocation to projects.",
